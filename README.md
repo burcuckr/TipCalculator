@@ -1,26 +1,17 @@
 💸 Day 2 – Tip Calculator
-📌 Project Overview
 
 This project is part of the Udemy – 100 Days of Code: The Complete Python Pro Bootcamp.
 
 📝 Description
 
-A simple Python program that calculates how much each person should pay when splitting a bill, including the tip.
+A simple Python program that calculates how much each person should pay when splitting a bill, including tip.
 
-🔢 User Inputs
+The program asks the user:
 
-The program asks the user to enter:
+The total bill amount
 
-Total bill amount
+The tip percentage
 
-Tip percentage
+The number of people
 
-Number of people
-
-🧮 How It Works
-
-Calculates the total bill including the selected tip percentage
-
-Splits the total amount equally among all people
-
-Displays the amount each person should pay, rounded to 2 decimal places
+and calculates the total bill with tip, then shows how much each person should pay, rounded to 2 decimal places.
